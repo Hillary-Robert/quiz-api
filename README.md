@@ -35,8 +35,8 @@ Node.js · Express 5 · Prisma · MySQL · JWT · bcrypt · Zod · Multer · Pin
 
 ## Run locally
 ```bash
-git clone https://github.com/Hillary-Robert/cms-project.git
-cd cms-project
+git clone https://github.com/Hillary-Robert/quiz-api.git
+cd quiz-api
 npm install
 cp .env.example .env
 ```
